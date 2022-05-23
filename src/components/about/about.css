@@ -1,0 +1,60 @@
+#about{
+    z-index: 100;
+    
+    padding-top: 3rem;
+}
+
+.members{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 4rem;
+}
+
+.member-container{
+    background: rgb(216, 244, 255);
+    border-radius: 1rem;
+    width: 48%;
+    height: 460px;
+    min-width: 420px;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.member{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+
+.member-pic{
+    width: 150px;
+}
+
+.detail{
+    border-top: 2px solid white;
+    padding-top: 1rem;
+    text-align: left;
+}
+
+h3{
+    padding-bottom: 1rem;
+}
+
+h4{
+    margin-top: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+.tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+}
+
+.member-link{
+    display: flex;
+    gap: 0.3rem;
+}
