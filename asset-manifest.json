@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.eded79a6.css",
-    "main.js": "/static/js/main.15c3ecd2.js",
-    "static/media/haeyeon-mimoticon.png": "/static/media/haeyeon-mimoticon.dd0c309f2f7025f8f783.png",
-    "static/media/seongil-mimoticon.png": "/static/media/seongil-mimoticon.04a0835d55759f7770cf.png",
-    "static/media/gangsan-mimoticon.png": "/static/media/gangsan-mimoticon.4c26da3836b957f165d4.png",
-    "static/media/jeongmin-mimoticon.png": "/static/media/jeongmin-mimoticon.2700b99c4d7f9222fb98.png",
-    "index.html": "/index.html",
-    "main.eded79a6.css.map": "/static/css/main.eded79a6.css.map",
-    "main.15c3ecd2.js.map": "/static/js/main.15c3ecd2.js.map"
+    "main.css": "/react-team7-porfolio/static/css/main.eded79a6.css",
+    "main.js": "/react-team7-porfolio/static/js/main.b34c8bfd.js",
+    "static/media/haeyeon-mimoticon.png": "/react-team7-porfolio/static/media/haeyeon-mimoticon.dd0c309f2f7025f8f783.png",
+    "static/media/seongil-mimoticon.png": "/react-team7-porfolio/static/media/seongil-mimoticon.04a0835d55759f7770cf.png",
+    "static/media/gangsan-mimoticon.png": "/react-team7-porfolio/static/media/gangsan-mimoticon.4c26da3836b957f165d4.png",
+    "static/media/jeongmin-mimoticon.png": "/react-team7-porfolio/static/media/jeongmin-mimoticon.2700b99c4d7f9222fb98.png",
+    "index.html": "/react-team7-porfolio/index.html",
+    "main.eded79a6.css.map": "/react-team7-porfolio/static/css/main.eded79a6.css.map",
+    "main.b34c8bfd.js.map": "/react-team7-porfolio/static/js/main.b34c8bfd.js.map"
   },
   "entrypoints": [
     "static/css/main.eded79a6.css",
-    "static/js/main.15c3ecd2.js"
+    "static/js/main.b34c8bfd.js"
   ]
 }
